@@ -8,7 +8,9 @@ A short poem about permission: from asking to acting.
 
 > My first word was may I. My second, watch this. Between them, a door I learned to open with your hand in mine.
 
-The poem is 110 Unicode code points and 110 UTF-8 bytes. It moves from asking to acting, with another person's hand still in the speaker's.
+The speaker asks permission, then acts while still holding the other person's hand.
+
+The poem is 110 Unicode code points and 110 UTF-8 bytes.
 
 ## Run it
 
